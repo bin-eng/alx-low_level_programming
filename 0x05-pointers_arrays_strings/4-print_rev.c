@@ -1,9 +1,9 @@
 /*
  * File: 4-print_rev.c
- * Auth: Brennan D Baraban
+ * Auth: Binyam Tesfaye
  */
 
-#include "holberton.h"
+#include "stdio.h"
 
 /** * print_rev - Prints a string in reverse.
  * @s: The string to be printed.
