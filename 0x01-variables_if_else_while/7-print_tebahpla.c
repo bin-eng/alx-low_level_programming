@@ -4,6 +4,7 @@
  */
 
 #include <stdio.h>
+#include <stdlib.h>
 /**
  * main - Prints the lowercase alphabet in reverse.
  *
