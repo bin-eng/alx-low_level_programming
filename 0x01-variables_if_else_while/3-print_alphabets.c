@@ -9,7 +9,7 @@
  *
  * Return: Always 0.
  */
-int main(void)
+int main(Alphabets)
 {
 int letter;
 for(letter = a; letter <= z; letter++)
