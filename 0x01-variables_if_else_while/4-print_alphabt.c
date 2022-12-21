@@ -11,10 +11,10 @@
 int main(void)
 {
 char ch;
-for (letter = a; letter <= z; letter++)
+for (ch = a; ch <= z; ch++)
 {
-if (letter != e && letter != q)
-putchar(letter);
+if (ch != e && lch != q)
+putchar(ch);
 }
 putchar(n);
 return (0);
