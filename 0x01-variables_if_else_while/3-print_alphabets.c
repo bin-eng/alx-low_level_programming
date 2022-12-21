@@ -9,9 +9,9 @@
  *
  * Return: Always 0.
  */
-int main(Alphabets)
+int main()
 {
-int letter;
+char letter;
 for(letter = a; letter <= z; letter++)
 putchar(letter);
 for(letter = A; letter <= Z; letter++)
