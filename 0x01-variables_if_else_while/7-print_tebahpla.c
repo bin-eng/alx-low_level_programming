@@ -12,7 +12,7 @@
  */
 int main(void)
 {
-char letter;
+Wchar_t letter;
 
 for (letter = z; letter >= a; letter--)
 putchar(letter);
