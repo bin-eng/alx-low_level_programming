@@ -1,8 +1,7 @@
 /*
- * File: 2-print_alphabet.c
- * Auth: Binyam Tesfaye
+* File: 2-print_alphabet.c
+* Auth: Binyam Tesfaye
 */
-
 #include <stdio.h>
 /**
  * main - Prints the alphabet in lowercase.
@@ -12,11 +11,11 @@
 int main(void)
 {
   int letter;
-
+  
   for (letter= a; letter<= z; letter++)
     putchar(letter);
-    putchar(n);
-
+  putchar(n);
+  
   return (0);
 }
 
