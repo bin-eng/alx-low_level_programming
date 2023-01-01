@@ -1,14 +1,8 @@
 /*
- * File: 0-putchar.c
+ * File: 0-ptchar.c
  * Auth: Binyam Tesfaye
  */
-
-#include "main.h"
-/**
- * main - prints "_putchar" followed by a new line.
- *
- * Return: Always 0.
- */
+#include <main.h>
 int main(void)
 {
  _putchar(_);
