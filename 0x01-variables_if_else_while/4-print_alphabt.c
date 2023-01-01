@@ -13,7 +13,7 @@ int main(void)
   char ch;
   for (ch = 'a'; ch <= 'z'; ch++)
   {
-    if (ch != 'e' && lch != 'q')
+    if (ch != 'e' && ch != 'q')
       _putchar(ch);
   }
   _putchar('\n');
