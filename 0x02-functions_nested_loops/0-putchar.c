@@ -3,7 +3,8 @@
  * Auth: Binyam Tesfaye
  */
 #include "main.h"
-int_main(void)
+
+int main(void)
 {
  _putchar('_');
  _putchar('p');
