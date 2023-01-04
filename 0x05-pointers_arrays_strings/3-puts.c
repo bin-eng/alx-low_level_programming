@@ -2,7 +2,7 @@
  * File: 3-puts.c
 * Auth: Binyam Tesfaye
 */
-#include "stdio.h"
+#include "main.h"
 /**
  * _puts - Prints a string to stdout.
  * @str: The string to be printed.
@@ -10,7 +10,7 @@
 void _puts(char *str)
 {
 while (*str)
-putchar(*str++);
+_putchar(*str++);
 
-putchar(n);
+_putchar('\n');
 }
